@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/goodfolk-solution-v2/',
+    base: '/Good-Folk-Solution-Akshay/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
